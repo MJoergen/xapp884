@@ -1,0 +1,2 @@
+work "../src/prbs_any.vhd"
+work "../src/prbs_top.vhd"

@@ -1,0 +1,2 @@
+verilog work ../src/prbs_any.v
+verilog work ../src/prbs_top.v

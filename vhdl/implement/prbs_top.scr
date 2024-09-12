@@ -1,0 +1,14 @@
+run
+-p xc6vlx75t-1-ff484
+-ifmt VHDL
+-top prbs_top
+-ifn prbs_top.prj
+-opt_mode Speed
+-opt_level 1
+-write_timing_constraints No
+-iobuf YES
+-ofn prbs_top
+-ofmt NGC
+-bus_delimiter <>
+-keep_hierarchy No
+-hierarchy_separator /
